@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Random test data
+# A549 after 1000U/ml IFN treatment 0h data
 
 all_data = [([1.02,0.79,1.23]),([1.22,0.80,1.02]),([1.90,0.99,0.53]),([1.02,1.62,0.60])]
 print (all_data)
